@@ -1,6 +1,12 @@
 # 🎓 Student Performance Analysis (Excel)
 
-
+## Table Of Content
+[Project Overview]()
+[Dashboard]()
+[Objective]()
+[Dasboard Features]()
+[]()
+[]()
 ## 🧠 Project Overview
 
 The **Student Performance Analysis Dashboard** is a comprehensive, interactive Excel-based data analysis project aimed at uncovering the various factors that influence academic performance among students. It leverages real-world educational metrics such as attendance, exam scores, sleep hours, tutoring sessions, and parental involvement to provide actionable insights for improving student outcomes.
